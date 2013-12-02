@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>96D5954F-A1F7-4536-B4C8-187C31AE0FFF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PatientCalculator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E4D1F30E-6EC3-49ED-A798-1411D5C9F631</key>
+		<string>https://github.com/evgeniydimitrov/PatientCalc.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PatientCalculator/PatientCalculator.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E4D1F30E-6EC3-49ED-A798-1411D5C9F631</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/evgeniydimitrov/PatientCalc.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E4D1F30E-6EC3-49ED-A798-1411D5C9F631</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E4D1F30E-6EC3-49ED-A798-1411D5C9F631</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PatientCalculator</string>
+		</dict>
+	</array>
+</dict>
+</plist>
